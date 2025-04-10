@@ -1,0 +1,12 @@
+
+@font-face {
+  font-family: 'Vazir';
+  src: url('vazir.woff2') format('woff2'),
+         url('vazir.woff') format('woff');
+}
+
+body{
+    font-family: Vazir;
+}
+
+
